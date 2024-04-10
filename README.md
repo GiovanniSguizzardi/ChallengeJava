@@ -8,6 +8,10 @@ Repositório criado para armazenar todos os arquivos e assuntos, sobre o challen
 * Nicolas E. Inohue: Responsável pela Documentação e Banco de Dados;
 * Marcel Prado Soddano: Responsável pela Documentação;
 * Guilherme Dias Gomes: Responsável pela Documentação.
+  
+Cronograma de desenvolvimento:
+05/04/2024 -> Programa feito com todas as Classes, Servidor e Cliente criadas. (Feito por Giovanni Sguizzardi)
+11/04/2024 -> Banco de dados criado e finalizado. (Feito por Nicolas E. Inohue)
 
 3.3) Instrução de como rodar a aplicação;
 * Passo 01: Abra a aplicação em seu software de preferencia;
