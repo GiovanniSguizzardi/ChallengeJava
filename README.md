@@ -1,4 +1,4 @@
-# ChallengeJava
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/26c1fa0d-7df8-4562-b525-40cca7f9d2b5)# ChallengeJava
 Repositório criado para armazenar todos os arquivos e assuntos, sobre o challenge de java.
 
 3.1) Nome da aplicação --> AiHackLogistics
@@ -10,8 +10,8 @@ Repositório criado para armazenar todos os arquivos e assuntos, sobre o challen
 * Guilherme Dias Gomes: Responsável pela Documentação.
   
 Cronograma de desenvolvimento:
-05/04/2024 -> Programa feito com todas as Classes, Servidor e Cliente criadas. (Feito por Giovanni Sguizzardi)
-11/04/2024 -> Banco de dados criado e finalizado. (Feito por Nicolas E. Inohue)
+* 05/04/2024 -> Programa feito com todas as Classes, Servidor e Cliente criadas. (Feito por Giovanni Sguizzardi)
+* 11/04/2024 -> Banco de dados criado e finalizado. (Feito por Nicolas E. Inohue)
 
 3.3) Instrução de como rodar a aplicação;
 * Passo 01: Abra a aplicação em seu software de preferencia;
@@ -22,4 +22,14 @@ Cronograma de desenvolvimento:
 3.4) Imagem dos diagramas;
 3.5) Link para vídeo apresentando a Proposta Tecnológica, o público-alvo da aplicação e os 
 problemas que a aplicação se propõe a solucionar;
-3.6) Listagem de todos os endpoints (Documentação da API);
+
+3.6) Listagem de todos os endpoints (Documentação da API):
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/165d8ecc-cde3-49fe-98e5-c94ad496a78b)
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/c89cf124-8358-4293-a96b-39a90c2f98c0)
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/a6647af6-d57d-46fd-8d02-e6579cb8c3d2)
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/f0e1cec2-9ae6-4444-8223-3d4a1d7ad9dc)
+
+
+
+
+
