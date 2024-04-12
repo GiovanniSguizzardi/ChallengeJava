@@ -28,6 +28,7 @@ Cronograma de desenvolvimento:
 problemas que a aplicação se propõe a solucionar;
 
 3.6) Listagem de todos os endpoints (Documentação da API):
+
 ![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/165d8ecc-cde3-49fe-98e5-c94ad496a78b)
 ![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/c89cf124-8358-4293-a96b-39a90c2f98c0)
 ![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/a6647af6-d57d-46fd-8d02-e6579cb8c3d2)
