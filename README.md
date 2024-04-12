@@ -22,6 +22,7 @@ Cronograma de desenvolvimento:
 * OBS: Muito importante resaltar que fizemos a camada mais "básica" do programa, e com a vinda de novas entregar o projeto sofrerá updates e melhorias!
    
 3.4) Imagem dos diagramas;
+* ![https://github.com/GiovanniSguizzardi/ChallengeJava/tree/main/Documentos]
 
 3.5) Link para vídeo apresentando a Proposta Tecnológica, o público-alvo da aplicação e os 
 problemas que a aplicação se propõe a solucionar;
