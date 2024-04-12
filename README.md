@@ -10,8 +10,9 @@ Repositório criado para armazenar todos os arquivos e assuntos, sobre o challen
 * Guilherme Dias Gomes: Responsável pela Documentação.
   
 Cronograma de desenvolvimento:
-* 05/04/2024 -> Programa feito com todas as Classes, Servidor e Cliente criadas. (Feito por Giovanni Sguizzardi)
-* 11/04/2024 -> Banco de dados criado e finalizado. (Feito por Nicolas E. Inohue)
+* 05/04/2024 -> Primeira versão do Programa feito com todas as Classes, Servidor e Cliente criadas. (Feito por Giovanni Sguizzardi)
+* 12/04/2024 -> Banco de dados criado e finalizado. (Feito por Nicolas E. Inohue)
+* 12/04/2024 -> Segunda versão do Programa feita, houve uma atualização na classe Cliente para rodar os 2 Servidores. (Feito por Giovanni Sguizzardi Conde)
 
 3.3) Instrução de como rodar a aplicação;
 * Passo 01: Abra a aplicação em seu software de preferencia;
