@@ -16,7 +16,7 @@ Cronograma de desenvolvimento:
 
 3.3) Instrução de como rodar a aplicação;
 * Passo 01: Abra a aplicação em seu software de preferencia;
-* Passo 02: Rode APENAS 1 DOS Servidores.class, dentro da aplicação, eles são 2 (isso será aprimorado em futuras entregas);
+* Passo 02: Rode os Servidores.class, dentro da aplicação, eles são 2;
 * Passo 03: Rode os Clientes.class, dentro da aplicação, eles são 2 também;
 * Passo 04: Digite a sua opção desejada.
 * Passo 05: Espere o banco de dados ser consultado e fim do programa.
