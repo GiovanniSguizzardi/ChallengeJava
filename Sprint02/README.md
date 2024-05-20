@@ -1,4 +1,4 @@
-# ChallengeJava
+# ChallengeJava - Sprint 02
 Repositório criado para armazenar todos os arquivos e assuntos, sobre o challenge de java.
 
 3.1) Nome da aplicação --> AiHackLogistics
