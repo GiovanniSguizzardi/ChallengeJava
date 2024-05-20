@@ -19,7 +19,7 @@ Cronograma de desenvolvimento:
 * Passo 03: Rode o Cliente.class, dentro da aplicação;
 * Passo 04: Digite a sua opção desejada.
 * Passo 05: Espere o banco de dados ser consultado e fim do programa.
-* OBS: Muito importante resaltar que fizemos a camada mais "básica" do programa, e com a vinda de novas entregas o projeto sofrerá updates e melhorias!
+* Evolução da versão 1.0 pra 2.0 --> Adição de 20 classes novas, melhorias visuais na classe Cliente e melhoras significativas no banco de dados;
    
 3.4) Documentação dos diagramas;
 * https://github.com/GiovanniSguizzardi/ChallengeJava/tree/main/Documentos/ArquivosSprint02
