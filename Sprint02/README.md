@@ -27,8 +27,12 @@ Cronograma de desenvolvimento:
 3.5) Link para vídeo apresentando a Proposta Tecnológica, o público-alvo da aplicação e os  problemas que a aplicação se propõe a solucionar;
 * Link: https://x.gd/BHxWd
 
-3.6) Listagem de todos os endpoints (Documentação da API):
+3.6) Exemplo da aplicação rodando:
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/223f763f-605c-4da2-a8f7-3d50c5d5ffcd)
+![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/5a7150d8-2bd6-4ccd-a7b5-edc881f14df7)
 
+
+3.7) Listagem de todos os endpoints (Documentação da API):
 ![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/165d8ecc-cde3-49fe-98e5-c94ad496a78b)
 ![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/c89cf124-8358-4293-a96b-39a90c2f98c0)
 ![image](https://github.com/GiovanniSguizzardi/ChallengeJava/assets/125572342/a6647af6-d57d-46fd-8d02-e6579cb8c3d2)
