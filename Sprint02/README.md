@@ -21,8 +21,8 @@ Cronograma de desenvolvimento:
 * Passo 05: Espere o banco de dados ser consultado e fim do programa.
 * OBS: Muito importante resaltar que fizemos a camada mais "básica" do programa, e com a vinda de novas entregas o projeto sofrerá updates e melhorias!
    
-3.4) Imagem dos diagramas;
-* 
+3.4) Documentação dos diagramas;
+* https://github.com/GiovanniSguizzardi/ChallengeJava/tree/main/Documentos/ArquivosSprint02
 
 3.5) Link para vídeo apresentando a Proposta Tecnológica, o público-alvo da aplicação e os  problemas que a aplicação se propõe a solucionar;
 * Link: https://x.gd/BHxWd
